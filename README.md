@@ -1,2 +1,1 @@
-# .github
-Description de la Walou Corp Developpment Team
+# Équipe de développement Walou Corp 
